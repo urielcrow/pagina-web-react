@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknuevo=self.webpackChunknuevo||[]).push([[753],{5753:function(e,n,t){t.r(n);var u=t(1413),c=t(2791),f=t(2666),i=t(184);n.default=function(){var e=(0,c.useContext)(f.X).setContext;return(0,c.useEffect)((function(){e((function(e){return(0,u.Z)((0,u.Z)({},e),{},{titlePage:"Mi perfil"})}))}),[e]),(0,i.jsx)("h3",{children:"Mi cuenta"})}}}]);
+//# sourceMappingURL=753.926152ea.chunk.js.map

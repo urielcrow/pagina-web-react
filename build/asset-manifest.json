@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "https://totalpadel.000webhostapp.com/static/css/main.ab707b48.css",
+    "main.js": "https://totalpadel.000webhostapp.com/static/js/main.cbfc6b6b.js",
+    "static/css/310.5edc1ad9.chunk.css": "https://totalpadel.000webhostapp.com/static/css/310.5edc1ad9.chunk.css",
+    "static/js/310.fda19628.chunk.js": "https://totalpadel.000webhostapp.com/static/js/310.fda19628.chunk.js",
+    "static/js/753.926152ea.chunk.js": "https://totalpadel.000webhostapp.com/static/js/753.926152ea.chunk.js",
+    "static/js/236.02ee9157.chunk.js": "https://totalpadel.000webhostapp.com/static/js/236.02ee9157.chunk.js",
+    "static/media/img3.jpg": "https://totalpadel.000webhostapp.com/static/media/img3.21337da42b797b4a294d.jpg",
+    "static/media/img1.jpg": "https://totalpadel.000webhostapp.com/static/media/img1.08d966f3ab5727e78153.jpg",
+    "static/media/4.jpg": "https://totalpadel.000webhostapp.com/static/media/4.1786a6cb5c29940912e3.jpg",
+    "static/media/8.jpg": "https://totalpadel.000webhostapp.com/static/media/8.9d6dcf0d55d433c8824a.jpg",
+    "static/media/10.jpg": "https://totalpadel.000webhostapp.com/static/media/10.8a2529c351f98246ca78.jpg",
+    "static/media/1.jpg": "https://totalpadel.000webhostapp.com/static/media/1.013891e98ba63a29fd9c.jpg",
+    "static/media/7.jpg": "https://totalpadel.000webhostapp.com/static/media/7.6a3d1f752dac0554e398.jpg",
+    "static/media/9.jpg": "https://totalpadel.000webhostapp.com/static/media/9.18fbfe24899d1d619bc6.jpg",
+    "static/media/3.jpg": "https://totalpadel.000webhostapp.com/static/media/3.88601a8478a79d462ccd.jpg",
+    "static/media/6.jpg": "https://totalpadel.000webhostapp.com/static/media/6.4cf7877adbdbe700958b.jpg",
+    "static/media/5.jpg": "https://totalpadel.000webhostapp.com/static/media/5.c42890bdd5d3e297ca9e.jpg",
+    "static/media/2.jpg": "https://totalpadel.000webhostapp.com/static/media/2.808f9e7b34de1c24d18b.jpg",
+    "static/media/no-image.jpg": "https://totalpadel.000webhostapp.com/static/media/no-image.9dc7fea3ddb0b72dc66a.jpg",
+    "index.html": "https://totalpadel.000webhostapp.com/index.html",
+    "main.ab707b48.css.map": "https://totalpadel.000webhostapp.com/static/css/main.ab707b48.css.map",
+    "main.cbfc6b6b.js.map": "https://totalpadel.000webhostapp.com/static/js/main.cbfc6b6b.js.map",
+    "310.5edc1ad9.chunk.css.map": "https://totalpadel.000webhostapp.com/static/css/310.5edc1ad9.chunk.css.map",
+    "310.fda19628.chunk.js.map": "https://totalpadel.000webhostapp.com/static/js/310.fda19628.chunk.js.map",
+    "753.926152ea.chunk.js.map": "https://totalpadel.000webhostapp.com/static/js/753.926152ea.chunk.js.map",
+    "236.02ee9157.chunk.js.map": "https://totalpadel.000webhostapp.com/static/js/236.02ee9157.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab707b48.css",
+    "static/js/main.cbfc6b6b.js"
+  ]
+}

@@ -1,0 +1,83 @@
+/* Sections Header
+--------------------------------*/
+
+.section-header h3 {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  position: relative;
+  padding-bottom: 15px;
+  margin-bottom: 40px;
+}
+
+.section-header h3::before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 120px;
+  height: 1px;
+  background: #ddd;
+  bottom: 1px;
+  left: calc(50% - 60px);
+}
+
+.section-header h3::after {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #dc3545;
+  bottom: 0;
+  left: calc(50% - 20px);
+}
+
+
+.section-header p {
+  text-align: center;
+  padding-bottom: 30px;
+  color: #333;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 32px;
+}
+
+
+
+/* Torneos Section
+--------------------------------*/
+
+#torneos {
+  background: url("./img/img1.jpg") center center no-repeat fixed;
+  background-size: cover;
+  padding: 60px 0 40px 0;
+  position: relative;
+}
+
+#torneos::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(255, 255, 255, 0.923);
+  z-index: 9;
+} 
+
+#torneos .container {
+  position: relative;
+  z-index: 10;
+}
+
+#torneos .custome-card{
+  box-shadow: -3px 3px 15px -2px rgba(0,0,0,0.52);
+}
+
+
+
+
+
